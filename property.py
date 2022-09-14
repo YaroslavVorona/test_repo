@@ -1,3 +1,5 @@
 print('Something else')
 print('Abra-kada-bra')
 print('Vingardium leviossa')
+print('Abra-kada-bra')
+print('Abra-kada-bra')
